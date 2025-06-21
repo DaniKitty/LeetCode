@@ -2,7 +2,7 @@ class Solution {
     public int minimumDeletions(String word, int k) {
         int[] count = new int[26];
         for (int i = 0; i < word.length(); i++) {
-            count[word.charAt(i) - 'a']++;
+            count[word.charAt(i) - 'a']++; // to count occurances of letters
         }
         int min = Integer.MAX_VALUE;
         for (int t = 0; t <= word.length(); t++) {
@@ -15,7 +15,7 @@ class Solution {
                 else if (f < t) del += f;
             }
 
-            if (del < min) min = del;
+            if (del < min) min = del; 
         }
 
 
