@@ -1,5 +1,6 @@
 # LeetCode
 A recrord of all the leetcode questions I have solved 
+
 **EASY**
 1. [Find all K-distant indices in an array](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/?envType=daily-question&envId=2025-06-24)
 2. [Two sum](https://leetcode.com/problems/two-sum/description/)
