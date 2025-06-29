@@ -10,6 +10,7 @@ A record of all the LeetCode questions I have solved
 6. [Richest customer wealth](https://leetcode.com/problems/richest-customer-wealth/description/)
 7. [Middle of the linked list](https://leetcode.com/problems/middle-of-the-linked-list/description/)
 8. [Ransom Note](https://leetcode.com/problems/ransom-note/description/)
+9. [Max consecutive ones](https://leetcode.com/problems/max-consecutive-ones/description/)
 
 **MEDIUM** 
 1. [Make string special](https://leetcode.com/problems/minimum-deletions-to-make-string-k-special/?envType=daily-question&envId=2025-06-20)
