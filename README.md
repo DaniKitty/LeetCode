@@ -16,6 +16,7 @@ A record of all the LeetCode questions I have solved
 12. [Duplicate zeroes](https://leetcode.com/problems/duplicate-zeros/description/)
 13. [Merge sorted arrays](https://leetcode.com/problems/merge-sorted-array/description/)
 14. [Remove element](https://leetcode.com/problems/remove-element/description/)
+15. [Remove duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
 
 **MEDIUM** 
 1. [Make string special](https://leetcode.com/problems/minimum-deletions-to-make-string-k-special/?envType=daily-question&envId=2025-06-20)
