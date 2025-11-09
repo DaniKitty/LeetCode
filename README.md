@@ -19,7 +19,9 @@ A record of all the LeetCode questions I have solved
 15. [Remove duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
 16. [Valid mountain array](https://leetcode.com/problems/valid-mountain-array/)
 17. [Check if N and its double exists](https://leetcode.com/problems/check-if-n-and-its-double-exist/)
-18. [Replace element with greatest element on right side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/description/) 
+18. [Replace element with greatest element on right side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/description/)
+19. [Remove duplicates from sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
+20. [Minimum Moves to Equal Array Elements III](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/description/)
 
 **MEDIUM** 
 1. [Make string special](https://leetcode.com/problems/minimum-deletions-to-make-string-k-special/?envType=daily-question&envId=2025-06-20)
